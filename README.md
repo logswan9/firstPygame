@@ -6,4 +6,4 @@ The game tracks how much score you accumulate and displays it on screen in the t
 The game also has a shield system in which you can take 4 hits from asteroids until you have no shields left. If you get hit 
 once more after that, you die and the game ends. Shields are displayed as a percent in the top right corner.
 I had a lot of ideas I wanted to try out with this game, yet I do not know the pygame module very well. So, it was hard implementing
-certain ideas. 
+certain ideas. There are a lot of commented out lines that I want to keep in there, incase I need something to go off in the future.
