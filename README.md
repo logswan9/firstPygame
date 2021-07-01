@@ -1,5 +1,5 @@
 # firstPygame
-My first game using pygame
+My first game using pygame.
 So I decided to learn python using pygame. This is a simple game in which you control a space ship with the arrow keys
 and pressing the space bar allows the player to shoot a laser that can destroy incoming asteroids.
 The game tracks how much score you accumulate and displays it on screen in the top left corner. You get a 100 points for each asteroid you destroy.
